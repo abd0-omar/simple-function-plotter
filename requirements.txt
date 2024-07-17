@@ -1,0 +1,7 @@
+matplotlib==3.8.1
+numpy==1.26.1
+PySide2==5.15.2.1
+sympy==1.13
+pytest==8.2.2
+pytest-qt==4.4.0
+pytest-mock==3.14.0
